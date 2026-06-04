@@ -21,6 +21,8 @@ body{
     color:pink;
     font-weight: bold;
     border:5px solid rgb(116, 116, 218);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 h1{
     color:white;
