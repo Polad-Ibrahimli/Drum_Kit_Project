@@ -57,5 +57,5 @@ function AddAnimation(character){
     // each click has its own element and settimeout
     element.classList.add("pressed");
 
-    //let ti=setTimeout(function(){element.classList.remove("pressed")},500);
+    let ti=setTimeout(function(){element.classList.remove("pressed")},500);
 }
